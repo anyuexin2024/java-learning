@@ -70,6 +70,7 @@ public class FunctionTest {
 //                .map(Class::getSimpleName)
 //                .collect(Collectors.toList());
 //        // 这里验证我们创建了ArrayList实例
+
 //        assertEquals(3, nameList.size());
     }
 
